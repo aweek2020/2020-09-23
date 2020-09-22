@@ -1,0 +1,17 @@
+
+@import url(https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@200;300;400;500;600;700;900&display=swap)
+body{margin:0px; font-family: 'Noto Serif KR',sans-serif;}
+	h1{margin:0px;font-family: 'Noto Serif KR',sans-serif; }
+	h2{margin:0px;font-family: 'Noto Serif KR',sans-serif; }	
+	p{margin:0px;font-family: 'Noto Serif KR',sans-serif; }	
+	img{margin:0px;}
+	div{margin:0px;}
+	section{margin:0px;}
+	.box{
+		position: absolute;
+	}
+	.box-center{width: 600px; height: 600px
+		;background-color:black;
+		position: absolute;
+		left: 10%; top: 10%;
+	}
